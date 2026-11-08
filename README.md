@@ -10,3 +10,8 @@ SozFlow is a mobile application for learning English words with Kazakh translati
 - Local word list
 - Offline support
 - Simple responsive interface
+
+## Tested platforms
+
+- Web
+- iOS using the Flet mobile app
