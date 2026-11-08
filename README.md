@@ -15,3 +15,7 @@ SozFlow is a mobile application for learning English words with Kazakh translati
 
 - Web
 - iOS using the Flet mobile app
+
+## Screenshot
+
+<img src="screenshots/sozflow_ios.jpg" alt="SozFlow running on iPhone" width="300">
